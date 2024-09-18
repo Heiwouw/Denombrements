@@ -13,6 +13,7 @@ namespace Denombrements
             int c = 1;
             while (c != 0)
             {
+                //test
                 Console.WriteLine("Permutation ...................... 1");
                 Console.WriteLine("Arrangement ...................... 2");
                 Console.WriteLine("Combinaison ...................... 3");
